@@ -167,7 +167,7 @@ var APP_DATA = {
           "yaw": 1.031478354217425,
           "pitch": 0.011835570344736368,
           "title": "馬桶",
-          "text": "Text"
+          "text": "<img src='img/toilet.jpg' width='250' />"
         }
       ]
     }
