@@ -124,7 +124,14 @@ var APP_DATA = {
           "target": "1-2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.183507859203493,
+          "pitch": 0.05248500691028646,
+          "title": "蚵棚",
+          "text": "</br>"
+        }
+      ]
     },
     {
       "id": "3-4",
